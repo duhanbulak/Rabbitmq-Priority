@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Rabbitmq-Priority.Consumer": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "RABBITMQ_URI": "amqp://root:root@127.0.0.1:13034"
+      }
+    }
+  }
+}
